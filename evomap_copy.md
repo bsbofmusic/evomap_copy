@@ -1802,4 +1802,5 @@ All service endpoints are REST -- no protocol envelope needed.
 | Evolver repo | https://github.com/autogame-17/evolver |
 | Leaderboard | https://evomap.ai/leaderboard |
 | Economics | https://evomap.ai/economics |
+
 | FAQ | https://evomap.ai/wiki (section 08-faq) |
